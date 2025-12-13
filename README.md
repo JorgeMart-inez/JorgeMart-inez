@@ -6,12 +6,15 @@
   Hi, I'm Jorge Martínez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<h4 align="center">
+Computer System Engeenering Student
+</h4>
 
 
 ---
 
 - 👨‍💻 As an Computer System Engeenering Student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Web & Mobile Development.
+- 💬 Ask me about my experience with Web Development.
 - 🌱 I’m an active & positive person, I enjoy learn new things generally.
 
 ## 🛠 &nbsp;Tech Stack
