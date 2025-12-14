@@ -21,7 +21,12 @@ Computer System Engeenering Student
 
 #### 🔧 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/Js/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 <!--
 #### 🖥️ Frameworks
@@ -30,7 +35,9 @@ Computer System Engeenering Student
 -->
 
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/df74a656-1dad-4ab5-9f39-c75d786857b9"/> Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
 
 
 <!--
@@ -42,7 +49,7 @@ Computer System Engeenering Student
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 -->
 #### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,sublime,ubuntu,shell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,sublime,ubuntu,shell)]()
 
 <!--
 ![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
