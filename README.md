@@ -23,9 +23,11 @@ Computer System Engeenering Student
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,cs)](https://skillicons.dev)
 
+<!--
 #### 🖥️ Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+-->
 
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/df74a656-1dad-4ab5-9f39-c75d786857b9"/> Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
