@@ -61,6 +61,8 @@ Computer System Engeenering Student
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 -->
+
+<!--
 ## 📊 Profile Statistics & Languages
 
 <div align="center">
@@ -70,6 +72,7 @@ Computer System Engeenering Student
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeMart-inez&show_icons=true&locale=en&layout=compact&theme=radical" width="37%" alt="Lenguajes más usados">
 
 </div>
+-->
  
  ### 💳 Github Profile Summary Card
  
