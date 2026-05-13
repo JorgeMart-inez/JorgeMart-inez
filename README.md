@@ -27,6 +27,8 @@ Computer System Engeenering Student
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 <!--
 #### 🖥️ Frameworks
