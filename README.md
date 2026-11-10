@@ -40,7 +40,7 @@ Computer System Engeenering Student
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
-
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/es)
 
 <!--
 #### 📚 Libraries
